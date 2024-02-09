@@ -1,6 +1,6 @@
 /*  your css code here. If applicable */
 body{
-	 background:url("https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg");
+	 background: 'rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box' url("https://www.globalfocusmagazine.com/wp-content/uploads/2020/02/Engaging_with_technology-scaled.jpg");
 	 background-repeat: no-repeat;
      background-size: cover;
      background-attachment: fixed;
